@@ -1,0 +1,70 @@
+# === Android ===
+
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+
+# Signing files (never commit these)
+*.jks
+*.keystore
+
+# Android Studio specific
+.idea/
+*.iml
+
+# Generated files
+gen/
+bin/
+out/
+
+# Gradle wrapper
+gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Log files
+*.log
+
+# Kotlin-specific files
+*.class
+*.kt~    # backup files from editors
+*.kts~   # backup files from editors
+
+# ProGuard
+proguard/
+
+# Miscellaneous
+*.swp
+*.swo
+*.bak
+*.tmp
+*.DS_Store
+
+# NDK
+obj/
+
+# Crash logs
+*.stacktrace
+
+# OS-specific
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# JetBrains IDEs
+idea/
+*.iws
+*.ipr
+*iml
+
+# node_modules (if using React Native or hybrid setups)
+node_modules/
