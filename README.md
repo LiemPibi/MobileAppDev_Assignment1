@@ -29,4 +29,4 @@ A simple Android task management application built with Kotlin. Users can create
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/SimpleTaskManagerApp.git
+   git clone [https://github.com/LiemPibi/MobileAppDev_Assignment1]
